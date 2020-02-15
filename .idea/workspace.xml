@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2dfd88c-72d7-4e31-a0c2-4b620ac22be2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xqfzbu2xKfWhEIZguHROHdg7xz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="Python.finanance">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="plotly-tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="finanance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="plotly-tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finanance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.finanance" />
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2dfd88c-72d7-4e31-a0c2-4b620ac22be2" name="Default Changelist" comment="" />
+      <created>1581778809782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581778809782</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="904" height="278" key="GridCell.Tab.0.bottom" timestamp="1581782517314">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="904" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581782517314" />
+    <state width="904" height="278" key="GridCell.Tab.0.center" timestamp="1581782517314">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="904" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581782517314" />
+    <state width="904" height="278" key="GridCell.Tab.0.left" timestamp="1581782517314">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="904" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581782517314" />
+    <state width="904" height="278" key="GridCell.Tab.0.right" timestamp="1581782517314">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="904" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581782517314" />
+    <state width="904" height="344" key="GridCell.Tab.1.bottom" timestamp="1581780312866">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581780312866" />
+    <state width="904" height="344" key="GridCell.Tab.1.center" timestamp="1581780312866">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581780312866" />
+    <state width="904" height="344" key="GridCell.Tab.1.left" timestamp="1581780312865">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581780312865" />
+    <state width="904" height="344" key="GridCell.Tab.1.right" timestamp="1581780312866">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581780312866" />
+    <state x="898" y="187" key="SettingsEditor" timestamp="1581779623250">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="898" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1581779623250" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581778817436">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581778817436" />
+  </component>
+</project>
