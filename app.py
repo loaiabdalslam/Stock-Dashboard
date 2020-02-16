@@ -22,7 +22,9 @@ fig = dict(data=data,layout=layout)
 
 
 
-app = dash.Dash(__name__)
+app = dash.Dash(__name__,external_stylesheets=[
+        'https://codepen.io/chriddyp/pen/bWLwgP.css'
+    ])
 
 app.layout = html.Div([
 
@@ -34,17 +36,27 @@ app.layout = html.Div([
 
     html.H1(children="Hello World"),
     html.Label("Dash Graphs"),
-    #html.Div(
-        dcc.Graph(id="Stock Chart",figure=fig)
-    #)
+
+
+    html.Div([
+        html.Div([
+            dcc.Graph(id="Stock Chart", figure=fig)
+        ],className="six columns"),
+        html.Div([
+            dcc.Graph(id="Stock Chart2", figure=fig)
+        ],className="six columns")
+
+    ],className="row"),
+
 
 
     ])
 
 
-app.css.append_css({
-    "external_url":"https://codepen.io/chriddyp/pen/bWLwgP.css"
-})
+#app.css.append_css({
+#    "external_url":"https://codepen.io/chriddyp/pen/bWLwgP.css"
+#})
 
+external_stylesheets=["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 if __name__ == "__main__":
     app.run_server(debug=True)
